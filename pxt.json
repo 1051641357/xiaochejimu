@@ -1,0 +1,23 @@
+{
+    "name": "mbit",
+    "version": "2.0.0",
+    "description": "Extension for jimu m:bit V2.0.0",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9",
+        "Mbit_IR":  "github:1051641357/xiaochejimu_IR"
+	
+
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/mbit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
